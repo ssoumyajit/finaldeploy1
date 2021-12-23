@@ -1,0 +1,227 @@
+[
+  {
+    "name": "about_us",
+    "path": "/about_us",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/about_us.vue",
+    "chunkName": "pages/about_us",
+    "_name": "_8ca577f6"
+  },
+  {
+    "name": "artists",
+    "path": "/artists",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/artists/index.vue",
+    "chunkName": "pages/artists/index",
+    "_name": "_9321f92c"
+  },
+  {
+    "name": "blogs",
+    "path": "/blogs",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/blogs.vue",
+    "chunkName": "pages/blogs",
+    "_name": "_0c07ab6c"
+  },
+  {
+    "name": "blogs.vue",
+    "path": "/blogs.vue",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/blogs.vue/index.vue",
+    "chunkName": "pages/blogs.vue/index",
+    "_name": "_2c723b87"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_228a338a"
+  },
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/index.vue",
+    "chunkName": "pages/create/index",
+    "_name": "_5b9ed118"
+  },
+  {
+    "name": "e1t1",
+    "path": "/e1t1",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/e1t1/index.vue",
+    "chunkName": "pages/e1t1/index",
+    "_name": "_44cc35be"
+  },
+  {
+    "name": "help",
+    "path": "/help",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/help.vue",
+    "chunkName": "pages/help",
+    "_name": "_0ebe7e94"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6a48e9c4"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/logout.vue",
+    "chunkName": "pages/logout",
+    "_name": "_2be5573f"
+  },
+  {
+    "name": "notificationss",
+    "path": "/notificationss",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/notificationss.vue",
+    "chunkName": "pages/notificationss",
+    "_name": "_2b7b1680"
+  },
+  {
+    "name": "onboarding",
+    "path": "/onboarding",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/onboarding.vue",
+    "chunkName": "pages/onboarding",
+    "_name": "_017d1e60"
+  },
+  {
+    "name": "passwordrenew",
+    "path": "/passwordrenew",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/passwordrenew.vue",
+    "chunkName": "pages/passwordrenew",
+    "_name": "_20d2e3ad"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_394ca898"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_821f13d0"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_394db4f2"
+  },
+  {
+    "name": "write_blog",
+    "path": "/write_blog",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/write_blog.vue",
+    "chunkName": "pages/write_blog",
+    "_name": "_f174d992"
+  },
+  {
+    "name": "create-e1t1index",
+    "path": "/create/e1t1index",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/e1t1index.vue",
+    "chunkName": "pages/create/e1t1index",
+    "_name": "_265ce0eb"
+  },
+  {
+    "name": "create-each1teach1",
+    "path": "/create/each1teach1",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/each1teach1.vue",
+    "chunkName": "pages/create/each1teach1",
+    "_name": "_51506ace"
+  },
+  {
+    "name": "create-journey",
+    "path": "/create/journey",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/journey.vue",
+    "chunkName": "pages/create/journey",
+    "_name": "_0510463c"
+  },
+  {
+    "name": "create-journeyindex",
+    "path": "/create/journeyindex",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/journeyindex.vue",
+    "chunkName": "pages/create/journeyindex",
+    "_name": "_30dcd660"
+  },
+  {
+    "name": "create-learning",
+    "path": "/create/learning",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/learning.vue",
+    "chunkName": "pages/create/learning",
+    "_name": "_c3dd4528"
+  },
+  {
+    "name": "create-website",
+    "path": "/create/website",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/create/website.vue",
+    "chunkName": "pages/create/website",
+    "_name": "_7903283d"
+  },
+  {
+    "name": "blogs.vue-id",
+    "path": "/blogs.vue/:id",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/blogs.vue/_id.vue",
+    "chunkName": "pages/blogs.vue/_id",
+    "_name": "_76d118a2"
+  },
+  {
+    "name": "e1t1-id",
+    "path": "/e1t1/:id",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/e1t1/_id.vue",
+    "chunkName": "pages/e1t1/_id",
+    "_name": "_b21e886e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_bebd72a6"
+  },
+  {
+    "path": "/:username",
+    "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username.vue",
+    "chunkName": "pages/_username",
+    "children": [
+      {
+        "name": "username",
+        "path": "",
+        "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username/index.vue",
+        "chunkName": "pages/_username/index",
+        "_name": "_7b620f93"
+      },
+      {
+        "name": "username-each1teach1",
+        "path": "each1teach1",
+        "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username/each1teach1/index.vue",
+        "chunkName": "pages/_username/each1teach1/index",
+        "_name": "_78f73f20"
+      },
+      {
+        "name": "username-journey",
+        "path": "journey",
+        "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username/journey.vue",
+        "chunkName": "pages/_username/journey",
+        "_name": "_202bc941"
+      },
+      {
+        "name": "username-myhood",
+        "path": "myhood",
+        "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username/myhood.vue",
+        "chunkName": "pages/_username/myhood",
+        "_name": "_7613d952"
+      },
+      {
+        "name": "username-notifications",
+        "path": "notifications",
+        "component": "/Users/river/Downloads/newauthui2/inmygroove/pages/_username/notifications.vue",
+        "chunkName": "pages/_username/notifications",
+        "_name": "_d6d370ae"
+      }
+    ],
+    "_name": "_04759510"
+  }
+]
